@@ -7,7 +7,7 @@ Aplikasi Android untuk mengubah ponsel menjadi kamera CCTV foto berkala, sepenuh
 ## Instalasi Langsung
 
 1. Buka [halaman rilis V1.0 beta](https://github.com/hamijeu/webcam-mobile/releases/tag/v1.0-beta).
-2. Unduh APK **Hamijeu - Webcam Mobile V1.0 beta.apk** pada bagian Assets.
+2. [Unduh APK langsung](https://github.com/Hamijeu/webcam-mobile/releases/download/v1.0-beta/Hamijeu.-.Webcam.Mobile.V1.0.beta.apk). Nama file lokal adalah **Hamijeu - Webcam Mobile V1.0 beta.apk**; GitHub menormalkan spasi menjadi titik pada nama aset rilis.
 3. Izinkan instalasi aplikasi dari sumber tersebut, kemudian pasang APK.
 4. Buka aplikasi dan berikan izin kamera, notifikasi, serta penyimpanan jika diminta.
 5. Atur interval, batas penyimpanan, resolusi, exposure, dan mode, lalu mulai pengambilan foto dari aplikasi.
